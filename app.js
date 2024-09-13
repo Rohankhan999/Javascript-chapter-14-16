@@ -1,6 +1,6 @@
 // Assigment no 05//(Array)
 
-//question no 1//
+//question no 1 to 6//
 
 // var Futurestudents = [] ;
 //  Futurestudents = [""];
@@ -20,3 +20,13 @@
 // document.write( Qualification[4] + "<br>");
 // document.write( Qualification[5] + "<br>");
 // document.write( Qualification[6] + "<br>");
+
+//question no 8//
+
+// var studentsNames = ["ALI" , "ROHAN" , "KHIZER"];
+// var Numbers = [350 , 249 , 420];
+// document.write("Score of " + studentsNames[0] + " is " + Numbers[0] + " Percentage: 75%" + "<br>");
+// document.write("Score of " + studentsNames[1] + " is " + Numbers[1] + " Percentage: 55%" + "<br>");
+// document.write("Score of " + studentsNames[2] + " is " + Numbers[2] + " Percentage: 84%" + "<br>");
+
+//question no 9//
