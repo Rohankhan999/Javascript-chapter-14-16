@@ -30,3 +30,59 @@
 // document.write("Score of " + studentsNames[2] + " is " + Numbers[2] + " Percentage: 84%" + "<br>");
 
 //question no 9//
+
+// var ColorsName = ["red" , "pink" , "blue" , "green"];
+// document.write("<h1>Color Names</h1>" + ColorsName);
+// ColorsName.unshift("brown","aqua");
+// document.write("<h1>Color Names</h1>" + ColorsName);
+// ColorsName.push("Golden","orange");
+// document.write("<h1>Color Names</h1>" + ColorsName);
+// ColorsName.unshift("grey","parrot");
+// document.write("<h1>Color Names</h1>" + ColorsName);
+// ColorsName.shift([0]);
+// document.write("<h1>Color Names</h1>" + ColorsName);
+// ColorsName.pop([7]);
+// document.write("<h1>Color Names</h1>" + ColorsName);
+// ColorsName.splice(3,3);
+// document.write("<h1>Color Names</h1>" + ColorsName);
+
+//question no 10//
+
+// var Score = [450 , 369, 518, 916, 625];
+// document.write("<h1>Brfore Sort</h1>" + Score);
+// Score.sort()
+// document.write("<h1>After Sort</h1>" + Score);
+
+//question no 11//
+
+// var Cities = ["karachi" ,"lahore" , "islamabad", "faisalabad" , "Sialkot"];
+// document.write("<h1>Cities list</h1>" + Cities);
+// var SelectedCities = [Cities.slice(0,3)]
+// document.write("<h1>Selected list</h1>" + SelectedCities);
+
+//question no 12//
+
+// var array = ["This","is","a","Cat"] ;
+// document.write("<h1>Array : </h1>" + array);
+// var string = "This is a Cat";
+// document.write("<h1>Sring : </h1>" + string);
+
+//question no 13//
+
+// var FIFO = ["First","in","First","Out"];
+// document.write("FIFO = " + FIFO)
+// var devices = ["keyboard","Mouse","CPU","Headphones"];
+// document.write("<br><br>Devices = " + devices + "<br><br>FIFO PRACTICE" + "<br><br>OUT :" + devices[0] + "<br>OUT :" + devices[1] + "<br>OUT :" + devices[2] + "<br>OUT :" + devices[3] )
+
+
+// var LIFO = ["Last","in","First","Out"];
+// document.write("<br><br>LIFO = " + LIFO)
+// document.write("<br><br>Devices = " + devices + "<br><br>LIFO PRACTICE" + "<br><br>OUT :" + devices[3] + "<br>OUT :" + devices[2] + "<br>OUT :" + devices[1] + "<br>OUT :" + devices[0] )
+
+
+
+
+
+
+
+
